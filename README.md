@@ -1,4 +1,4 @@
-# kali-linux
+# 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐒𝐞𝐫𝐯𝐞𝐫 📡 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐀𝐧𝐝 💞 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐁𝐲 ᴍᴜᴋᴇsʜ
 <h1> <img src="https://te.legra.ph/file/f708eb8020237a65e837b.png" width="70px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -7,15 +7,8 @@
 
 [<img src="https://te.legra.ph/file/dd55158b01876db42d3d9.jpg"/>](https://github.com/Noob-Mukesh)
 
-<h1> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-
-ɴᴏᴏʙ - ᴍᴜᴋᴇsʜ
-
-# Aʙᴏᴜᴛ ᴍʀ sᴜᴋᴋᴜɴ 💫
-┗☉ Nᴀᴍᴇ    💥  »  ᴍᴜᴋᴇsʜ 
-
-
+ Deploy  any bot  music , management ,etc
 
 
 
